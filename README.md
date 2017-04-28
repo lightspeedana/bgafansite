@@ -1,2 +1,2 @@
 # BgA Fan Site
-School project. Don't commit.
+Private project. Don't commit.
